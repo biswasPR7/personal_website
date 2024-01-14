@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/personal_website/static/css/main.0f489cab.css",
+    "main.js": "/personal_website/static/js/main.628be8bb.js",
+    "static/js/787.7da95b79.chunk.js": "/personal_website/static/js/787.7da95b79.chunk.js",
+    "static/media/IITk logo.jpeg": "/personal_website/static/media/IITk logo.b5d612f4720cccc13931.jpeg",
+    "static/media/cool pic.png": "/personal_website/static/media/cool pic.f2cb433d1e186ff6f18a.png",
+    "static/media/slick.svg": "/personal_website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/personal_website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/personal_website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/personal_website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/personal_website/index.html",
+    "main.0f489cab.css.map": "/personal_website/static/css/main.0f489cab.css.map",
+    "main.628be8bb.js.map": "/personal_website/static/js/main.628be8bb.js.map",
+    "787.7da95b79.chunk.js.map": "/personal_website/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f489cab.css",
+    "static/js/main.628be8bb.js"
+  ]
+}
